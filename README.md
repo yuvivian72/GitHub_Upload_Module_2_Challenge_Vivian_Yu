@@ -2,11 +2,11 @@
 
 ## Loan Qualifier Application
 
-This application prompts the user with a series of questions regarding their credit score, debt, income, and desired loan amount to determine whether the user qualifies for certain loans. It will match them to potential banks willing to underwrite the loans. It will ask the user to save the qualifying loans as a new CSV file.
+This application prompts the user with a series of questions regarding his or her credit score, debt, income, and desired loan amount to determine whether the user qualifies for certain loans. It will match the user to potential banks willing to underwrite the loans. It will ask the user to save the qualifying loans as a new CSV file.
 
 ## Technologies
 
-This application uses Python 3.7 and the Fire and Questionary packages to filter through bank data to match the user to qualifying loans using using debt_to_income ratio and loan-to_value ratio calculations.
+This application uses Python 3.7 and the Fire and Questionary packages to filter through bank data to match the user to qualifying loans using debt_to_income ratio and loan-to_value ratio calculations.
 
 
 ---
